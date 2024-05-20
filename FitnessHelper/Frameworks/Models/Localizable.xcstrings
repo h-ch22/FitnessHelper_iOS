@@ -1,0 +1,653 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "__Fitness__ Helper" : {
+
+    },
+    "%@.%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@.%2$@"
+          }
+        }
+      }
+    },
+    "© 2024 Changjin Ha.\nAll Rights Reserved." : {
+
+    },
+    "✨ Recommended" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "✨ 추천"
+          }
+        }
+      }
+    },
+    "Accept contents of human experiments" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인간 대상 실험에 대한 내용 및 고지사항 (동의)"
+          }
+        }
+      }
+    },
+    "Accept End User License Agreement (EULA)" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "최종 사용권 계약서 (동의)"
+          }
+        }
+      }
+    },
+    "Accept Personal information collection and processing policy" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개인정보 수집 및 처리 방침 (동의)"
+          }
+        }
+      }
+    },
+    "An error occurred while processing requested action.\nPlease check your network status, or try later." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "요청하신 작업을 처리하는 중 오류가 발생했습니다.네트워크 상태를 확인하거나, 나중에 다시 시도하십시오."
+          }
+        }
+      }
+    },
+    "An error occurred while processing requested action.\\nPlease check your network status, or try later." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "요청하신 작업을 처리하는 중 오류가 발생했습니다.\\n네트워크 상태를 확인하거나, 나중에 다시 시도하십시오."
+          }
+        }
+      }
+    },
+    "Birthday" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "생년월일"
+          }
+        }
+      }
+    },
+    "BUTTON" : {
+
+    },
+    "Check License Agreements" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이용약관 동의 상태 확인"
+          }
+        }
+      }
+    },
+    "Check Statistics" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "통계 확인하기"
+          }
+        }
+      }
+    },
+    "Check the information you entered again, or check the network status." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "입력한 정보를 다시 확인하거나, 네트워크 상태를 확인하십시오."
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "닫기"
+          }
+        }
+      }
+    },
+    "Coach yourself" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스스로 코칭하기"
+          }
+        }
+      }
+    },
+    "concerns about fitness or eating habits?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "피트니스 또는 식습관에 고민이 있나요?"
+          }
+        }
+      }
+    },
+    "Confirm Password" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호 확인"
+          }
+        }
+      }
+    },
+    "Date" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "날짜"
+          }
+        }
+      }
+    },
+    "Diet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "식단"
+          }
+        }
+      }
+    },
+    "Display Name" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "닉네임"
+          }
+        }
+      }
+    },
+    "E-Mail" : {
+
+    },
+    "Empty Field" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공백 필드"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "에러"
+          }
+        }
+      }
+    },
+    "Female" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "여성"
+          }
+        }
+      }
+    },
+    "Fitness" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "피트니스"
+          }
+        }
+      }
+    },
+    "Fitness Helper" : {
+
+    },
+    "Food" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "음식"
+          }
+        }
+      }
+    },
+    "Forget Password?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호를 잊으셨나요?"
+          }
+        }
+      }
+    },
+    "gather the achievements we've made so far?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그 동안의 성과를 모아볼까요?"
+          }
+        }
+      }
+    },
+    "Hello,\n%@ 😆" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "안녕하세요,\n%@ 님😆"
+          }
+        }
+      }
+    },
+    "History" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기록"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "홈"
+          }
+        }
+      }
+    },
+    "Incorrect E-Mail Type" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잘못된 형식의 E-Mail"
+          }
+        }
+      }
+    },
+    "Male" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "남성"
+          }
+        }
+      }
+    },
+    "More" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "더 보기"
+          }
+        }
+      }
+    },
+    "Next" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다음 단계로"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확인"
+          }
+        }
+      }
+    },
+    "On the Statistics tab, you can check the fitness posture and statistics of the food you ate." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "통계 탭에서 피트니스 자세와 섭취한 음식의 통계를 다시 확인할 수 있습니다."
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호"
+          }
+        }
+      }
+    },
+    "Password Mismatch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호 불일치"
+          }
+        }
+      }
+    },
+    "Please double-check that the password and password verification match." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호와 비밀번호 확인이 일치하는지 다시 확인해주세요."
+          }
+        }
+      }
+    },
+    "Please enter a password of at least 8 digits for safety." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "안전을 위해 8자리 이상의 비밀번호를 설정해주세요."
+          }
+        }
+      }
+    },
+    "Please enter all fields." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 필드를 입력해주세요."
+          }
+        }
+      }
+    },
+    "Please enter correct E-Mail Type" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "올바른 형식의 E-Mail을 입력해주세요."
+          }
+        }
+      }
+    },
+    "Please enter weight." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "체중을 입력하세요."
+          }
+        }
+      }
+    },
+    "Please read and accept all licenses." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이용약관을 읽고 동의해주세요."
+          }
+        }
+      }
+    },
+    "Prediction" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "진단"
+          }
+        }
+      }
+    },
+    "Read" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "읽기"
+          }
+        }
+      }
+    },
+    "Realtime Prediction" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실시간 예측"
+          }
+        }
+      }
+    },
+    "Select Prediction Type" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "진단 종류 선택"
+          }
+        }
+      }
+    },
+    "Set today's weight" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오늘의 체중"
+          }
+        }
+      }
+    },
+    "Sex" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "성별"
+          }
+        }
+      }
+    },
+    "Sign In" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "로그인"
+          }
+        }
+      }
+    },
+    "Sign Up" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "회원가입"
+          }
+        }
+      }
+    },
+    "Start Prediction" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "진단 시작하기"
+          }
+        }
+      }
+    },
+    "Statistics" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "통계"
+          }
+        }
+      }
+    },
+    "Tall" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "키"
+          }
+        }
+      }
+    },
+    "Unknown User" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알 수 없는 사용자"
+          }
+        }
+      }
+    },
+    "Weak Password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "위험한 비밀번호"
+          }
+        }
+      }
+    },
+    "Weight Unit" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "체중 단위"
+          }
+        }
+      }
+    },
+    "Weights" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "체중"
+          }
+        }
+      }
+    },
+    "WEIGHTS LOG" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "체중 기록"
+          }
+        }
+      }
+    },
+    "What kind of content do we detect?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "어떤 컨텐츠를 진단할까요?"
+          }
+        }
+      }
+    },
+    "With AI, you can correct the right fitness posture and nutrient balance." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI를 활용해 피트니스 자세와 영양소 균형을 교정할 수 있습니다."
+          }
+        }
+      }
+    },
+    "You can detect food and exercise posture in real time using cameras and deep learning technology." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라와 딥러닝 기술을 이용해 음식과 운동 자세를 실시간으로 검출할 수 있습니다."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
