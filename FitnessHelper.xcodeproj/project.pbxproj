@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		F60569742BF78E30003664C1 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = F60569732BF78E30003664C1 /* Localizable.xcstrings */; };
+		F6292F5A2BFCFB6A007E1731 /* FoodDetectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6292F592BFCFB6A007E1731 /* FoodDetectionView.swift */; };
+		F6292F5C2BFCFC5B007E1731 /* FoodDetectionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6292F5B2BFCFC5B007E1731 /* FoodDetectionViewModel.swift */; };
+		F6292F5E2BFCFCA8007E1731 /* CameraPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6292F5D2BFCFCA8007E1731 /* CameraPreviewView.swift */; };
+		F6292F602BFCFD86007E1731 /* CameraHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6292F5F2BFCFD86007E1731 /* CameraHelper.swift */; };
 		F6530A3B2BF6FDB700297224 /* FitnessHelperApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6530A3A2BF6FDB700297224 /* FitnessHelperApp.swift */; };
 		F6530A3F2BF6FDB800297224 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6530A3E2BF6FDB800297224 /* Assets.xcassets */; };
 		F6530A422BF6FDB800297224 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6530A412BF6FDB800297224 /* Preview Assets.xcassets */; };
@@ -83,6 +87,10 @@
 
 /* Begin PBXFileReference section */
 		F60569732BF78E30003664C1 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		F6292F592BFCFB6A007E1731 /* FoodDetectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetectionView.swift; sourceTree = "<group>"; };
+		F6292F5B2BFCFC5B007E1731 /* FoodDetectionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetectionViewModel.swift; sourceTree = "<group>"; };
+		F6292F5D2BFCFCA8007E1731 /* CameraPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPreviewView.swift; sourceTree = "<group>"; };
+		F6292F5F2BFCFD86007E1731 /* CameraHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraHelper.swift; sourceTree = "<group>"; };
 		F6530A372BF6FDB700297224 /* FitnessHelper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FitnessHelper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6530A3A2BF6FDB700297224 /* FitnessHelperApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessHelperApp.swift; sourceTree = "<group>"; };
 		F6530A3E2BF6FDB800297224 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -283,6 +291,7 @@
 				F6530A3A2BF6FDB700297224 /* FitnessHelperApp.swift */,
 				F6530A7E2BF7235F00297224 /* NewMorphButtonStyle.swift */,
 				F684D3212BF7362700F3528A /* MainView.swift */,
+				F6292F5D2BFCFCA8007E1731 /* CameraPreviewView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -380,6 +389,7 @@
 			isa = PBXGroup;
 			children = (
 				F684D31F2BF7358700F3528A /* AES256Util.swift */,
+				F6292F5F2BFCFD86007E1731 /* CameraHelper.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -463,6 +473,7 @@
 			children = (
 				F6C735D72BF9D0DD00FD1304 /* PredictionView.swift */,
 				F6C735DB2BF9D4FD00FD1304 /* PredictionTypeSelectionView.swift */,
+				F6292F592BFCFB6A007E1731 /* FoodDetectionView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -471,6 +482,7 @@
 			isa = PBXGroup;
 			children = (
 				F6C735DE2BF9D58B00FD1304 /* PredictionTypeModel.swift */,
+				F6292F5B2BFCFC5B007E1731 /* FoodDetectionViewModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -721,6 +733,7 @@
 			files = (
 				F6C735CA2BF9C91000FD1304 /* DietView.swift in Sources */,
 				F6C735DA2BF9D15200FD1304 /* IntroductionListModel.swift in Sources */,
+				F6292F602BFCFD86007E1731 /* CameraHelper.swift in Sources */,
 				F6530A8A2BF7291400297224 /* UserInfoModel.swift in Sources */,
 				F684D3222BF7362700F3528A /* MainView.swift in Sources */,
 				F6C735D82BF9D0DD00FD1304 /* PredictionView.swift in Sources */,
@@ -736,12 +749,15 @@
 				F6C735ED2BF9EF7800FD1304 /* HomeRecommendedActionListModel.swift in Sources */,
 				F6C735D22BF9C95900FD1304 /* MoreView.swift in Sources */,
 				F6C735CE2BF9C93800FD1304 /* StatisticsView.swift in Sources */,
+				F6292F5E2BFCFCA8007E1731 /* CameraPreviewView.swift in Sources */,
 				F6530A882BF7290200297224 /* UserManagement.swift in Sources */,
+				F6292F5C2BFCFC5B007E1731 /* FoodDetectionViewModel.swift in Sources */,
 				F684D3202BF7358700F3528A /* AES256Util.swift in Sources */,
 				F6530ABA2BF72FF400297224 /* Extensions.swift in Sources */,
 				F6530A3B2BF6FDB700297224 /* FitnessHelperApp.swift in Sources */,
 				F6530A7F2BF7235F00297224 /* DotProgressView.swift in Sources */,
 				F6530A822BF723E400297224 /* Dot.swift in Sources */,
+				F6292F5A2BFCFB6A007E1731 /* FoodDetectionView.swift in Sources */,
 				F6530A852BF7258500297224 /* UserManagementAlertModel.swift in Sources */,
 				F6C735DF2BF9D58B00FD1304 /* PredictionTypeModel.swift in Sources */,
 				F6C735E82BF9E69E00FD1304 /* WeightDataModel.swift in Sources */,
@@ -936,6 +952,7 @@
 				DEVELOPMENT_TEAM = JLQKH6P6PL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Camera permission is required to detect food and fitness posture.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -968,6 +985,7 @@
 				DEVELOPMENT_TEAM = JLQKH6P6PL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Camera permission is required to detect food and fitness posture.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

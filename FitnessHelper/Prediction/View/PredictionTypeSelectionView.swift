@@ -9,6 +9,7 @@ import SwiftUI
 
 struct PredictionTypeSelectionView: View {
     @State private var predictionType: PredictionTypeModel = .FITNESS
+    @State private var showFoodDetectionView = false
     
     var body: some View {
         ZStack{
@@ -56,7 +57,15 @@ struct PredictionTypeSelectionView: View {
                 
                 Spacer()
                 
-                NavigationLink(destination: EmptyView()){
+                Button(action: {
+                    switch predictionType {
+                    case .FITNESS:
+                        break
+                        
+                    case .FOOD:
+                        showFoodDetectionView = true
+                    }
+                }){
                     HStack{
                         Spacer()
                         
@@ -73,6 +82,9 @@ struct PredictionTypeSelectionView: View {
 
             }.padding(20)
                 .navigationTitle(Text("Select Prediction Type"))
+                .fullScreenCover(isPresented: $showFoodDetectionView, content: {
+                    FoodDetectionView()
+                })
         }
     }
 }
